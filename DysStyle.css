@@ -10,3 +10,14 @@ p.little{
     font-weight: normal;
     font-size: 2vw;
 }
+div.footer{
+    color: grey;
+    font-weight: normal;
+    font-size: 10pt;
+    position: fixed;
+    left: 0;
+    padding-bottom: 8px;
+    bottom: 0;
+    width: 100%;
+    text-align: right;
+}
